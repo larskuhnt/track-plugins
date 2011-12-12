@@ -1,5 +1,4 @@
-source 'http://127.0.0.1:8808'
-# source :rubygems
+source :rubygems
 
 gem 'track'
 gem 'activerecord'
